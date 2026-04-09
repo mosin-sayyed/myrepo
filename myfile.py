@@ -1,4 +1,5 @@
-def hello():
-  print("hello")
+#python smiple program
 
-hello()
+name=input("What's yor name? ").strip().title()
+
+print(name);
